@@ -1,0 +1,15 @@
+
+
+
+
+
+# ErrorDocument 404 http://localhost/php/admin/index.php
+
+
+
+
+
+
+# RewriteEngine On
+
+# RewriteRule ^([0-9a-zA-Z-_]+)$ index.php?page=$1
